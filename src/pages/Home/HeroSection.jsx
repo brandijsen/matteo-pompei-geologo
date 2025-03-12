@@ -108,7 +108,7 @@ const HeroSection = () => {
 
   {/* Bottone Contattami */}
   <a
-  href="/matteo-pompei-geologo/contact"
+  href="/contact"
   className="bg-transparent text-white hover:bg-white hover:text-black border-2 border-white py-1 px-4 rounded-sm text-sm font-semibold transition-all duration-300 ease-in-out"
 >
   Contattami

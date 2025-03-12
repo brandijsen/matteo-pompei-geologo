@@ -54,7 +54,7 @@ const AboutSection = () => {
         {/* Contenitore per il bottone centratamente */}
         <div className="flex justify-center mt-10">
           <a
-            href="/matteo-pompei-geologo/about"
+            href="/about"
             className="bg-transparent text-black hover:bg-black hover:text-white border-2 border-black py-1 px-4 rounded-sm text-sm font-semibold transition-all duration-300 ease-in-out"
           >
             Scopri di più
