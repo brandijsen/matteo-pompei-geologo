@@ -15,7 +15,7 @@ import './App.css'
 
 const App = () => {
   return (
-    <Router basename="/matteo-pompei-geologo">
+    <Router>
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
